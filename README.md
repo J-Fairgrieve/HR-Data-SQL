@@ -1,3 +1,5 @@
+##### Please note, this is an example of a homework project from the Data Analytics Bootcamp, you can also [view my full homework project](https://github.com/j-fairgrieve-bootcamp/sql-challenge).
+
 # HR SQL Data Analysis
 
 ## Background
